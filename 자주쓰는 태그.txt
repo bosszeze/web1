@@ -1,0 +1,23 @@
+head
+body
+html
+title
+meta
+div
+a
+script
+link
+img
+p
+span
+li
+ul
+br
+style
+h1
+h2
+input
+form
+strong
+
+<meta charset="utf-8"> ///char 문자고, set은 세팅 utf-8로 열어라
